@@ -47,8 +47,8 @@
 <div>
   <input name="names" type="password" placeholder="password">
 </div>
-<div>
-<h2 id="foo">  <a href="caluclater.py"> click here</a></h2>
-</div>
 </body>
 </html>
+
+
+
